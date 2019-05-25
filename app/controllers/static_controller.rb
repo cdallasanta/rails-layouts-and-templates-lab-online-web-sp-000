@@ -1,5 +1,5 @@
 class StaticController < ApplicationController
   def home
-    render 'views/home'
+    render 'home'
   end
 end
